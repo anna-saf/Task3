@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\safon\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\safon\\.nuget\\packages"
+    ]
+  }
+}
